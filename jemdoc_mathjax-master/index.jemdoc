@@ -1,0 +1,47 @@
+# jemdoc: menu{MENU}{index.html}, #showsource
+= Pavan Kumar Reddy Manne
+
+~~~
+{}{img_left}{Pavan Reddy.jpg}{Portrait of SaiDhiraj Amuru}{150}{180}
+#SaiDhiraj Amuru \n
+Ph.D. Student, [https://ee.iith.ac.in Department of Electrical Engineering], [https://iith.ac.in IIT Hyderabad].\n
+Lead Engineer, [https://www.wisig.com WiSig Networks].#, Hyderabad, India.
+~~~
+
+== Contact
+
+E-mail: [mailto:pavanreddymanne@gmail.com pavanreddymanne@gmail.com] \n
+
+
+== Research Areas
+
+- Wireless communications.
+- Massive MIMO and beamforming.
+- User selection and scheduling algorithms.
+
+== Education
+
+- Ph.D., Electrical Engineering, IIT Hyderabad, 2014-present \n
+  Dissertation Advisor: [http://iith.ac.in/ee/kkuchi Prof. Kiran Kuchi] 
+- M.Tech., Electrical Engineering, IIT Hydearabad, 2018.
+#- B.Tech., Electrical Engineering, IIT Madras, 2009.
+
+== Professional Experience
+- Lead Engineer, WiSig Networks, Hyderabad, Aug 2020 - present.
+- Research Engineer, WiSig Networks, Hyderabad, Jan 2018 - Aug 2020.
+
+== Academic Activities
+- IEEE Student Member.
+- Teaching Assistant for: Digital Signal Processing, Signals and Systems.
+- Reviewer for:  IEEE IoT-Journal, IEEE Globecomm, IEEE WCNC, IEEE ICC.
+
+== Recognition/Awards
+- Best Paper Award \[Honourable Mention\], COMSNETs, 2020. \n
+- Excellence in Research, IIT Hyderabad, 2018.
+
+
+#~~~
+#{Optionally empty title}
+#Code block with monospaced text.
+#~~~
+
