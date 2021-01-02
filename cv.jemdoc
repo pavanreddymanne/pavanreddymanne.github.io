@@ -1,4 +1,3 @@
-# jemdoc: menu{MENU}{publications.html}[Resume.pdf a], #showsource
-
+# jemdoc: menu{MENU}{publications.html}[Resume.pdf a], nofooter
 [Resume.pdf a]
 
