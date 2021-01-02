@@ -2,46 +2,27 @@
 = Pavan Kumar Reddy Manne
 
 ~~~
-{}{img_left}{Pavan Reddy.jpg}{Portrait of SaiDhiraj Amuru}{150}{180}
-#SaiDhiraj Amuru \n
+{}{img_left}{Pavan Reddy.jpg}{Portrait of Pavan Reddy}{150}{180}
 Ph.D. Student, [https://ee.iith.ac.in Department of Electrical Engineering], [https://iith.ac.in IIT Hyderabad].\n
 Lead Engineer, [https://www.wisig.com WiSig Networks].#, Hyderabad, India.
 ~~~
 
-== Contact
 
-E-mail: [mailto:pavanreddymanne@gmail.com pavanreddymanne@gmail.com] \n
+
+== About me
+I am a researcher interested in design and analysis of wireless communication systems.  I received my Masters degree from Electrical Engineering department at [https://iith.ac.in Indian Institute of Technology Hyderabad], where I am doing my Ph.D under the guidance of [https://iith.ac.in/ee/kkuchi Prof. Kiran Kuchi]. 
+Currently, I am also working as a Lead Engineer at [https://wisig.com WiSig Networks].# My research interests lie in the areas of wireless communications, digital signal processing, coding theory, algorithm design, and evaluation of modems.  Please refer to my research page for more details on some of the work I've been doing in these areas.
+  
+    
 
 
 == Research Areas
 
 - Wireless communications.
 - Massive MIMO and beamforming.
-- User selection and scheduling algorithms.
-
-== Education
-
-- Ph.D., Electrical Engineering, IIT Hyderabad, 2014-present \n
-  Dissertation Advisor: [http://iith.ac.in/ee/kkuchi Prof. Kiran Kuchi] 
-- M.Tech., Electrical Engineering, IIT Hydearabad, 2018.
-#- B.Tech., Electrical Engineering, IIT Madras, 2009.
-
-== Professional Experience
-- Lead Engineer, WiSig Networks, Hyderabad, Aug 2020 - present.
-- Research Engineer, WiSig Networks, Hyderabad, Jan 2018 - Aug 2020.
-
-== Academic Activities
-- IEEE Student Member.
-- Teaching Assistant for: Digital Signal Processing, Signals and Systems.
-- Reviewer for:  IEEE IoT-Journal, IEEE Globecomm, IEEE WCNC, IEEE ICC.
-
-== Recognition/Awards
-- Best Paper Award \[Honourable Mention\], COMSNETs, 2020. \n
-- Excellence in Research, IIT Hyderabad, 2018.
+- Scheduler designs for cellular technoligies.
+#- User selection and scheduling algorithms.
 
 
-#~~~
-#{Optionally empty title}
-#Code block with monospaced text.
-#~~~
+
 

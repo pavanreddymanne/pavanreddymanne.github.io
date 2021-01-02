@@ -1,0 +1,17 @@
+# jemdoc: menu{MENU}{projects.html}, #showsource
+#= Projects Handled
+\n
+== System-Level Simulator
+  *Simulator Development*
+ - Developed a 4G and 5G standard compliant system-level simulator for both uplink and downlink.
+ -- Performed the calibration of system-level simulator with various 3GPP channel models.
+ -- /Key features:/ 2-D Antenna array model, 3GPP FD-MIMO channel models, Full-buffer/Non-Full buffer traffic models,
+ wraparound models, user pairing and scheduler, uplink power control, and HARQ with outer loop link-adaptation.
+ - Designed scheduler algorithms to handle 100s of users supporting single-user MIMO (SU-MIMO) and multi-user MIMO (MU-MIMO).
+ - Proposed coverage enhancements for 5G-New Radio uplink in extremely large-cell sites.
+ - Designed and evaluated the beamforming solutions to enhance the control channel capacity of existing 4G massive MIMO deployments.
+ - Developed a joint control and shared channel scheduling algorithm for NB-IoT systems.
+
+== Link-Level Simulator
+Implemented physical downlink control channel for 4G-LTE, NB-IoT, LTE-M1, and 5G-NR technologies.\n
+- Validated the implementation against the 3rd party tools: Rhode & Schwarz,  Keysight System-Vue.
