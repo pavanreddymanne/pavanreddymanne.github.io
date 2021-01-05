@@ -2,7 +2,16 @@
 #= Publications 
 \n
 
+
+== Patents
+. Methods and Systems for Improving Coverage of a Cellular System \[IN 202041034036\].
+. L2 Scheduler and a Method of Resource Allocation \[IN 202041005719\].
+. Method for Wireless Communication Using Beamformed PDCCH  \[IN 201941017958\].
+. Method and System for Scheduling a Pool of Resources to a Plurality of User Equipments   \[IN 201841029885\].
+
 == Journals 
+ . *Pavan Reddy M.*, Koteswara Rao G., Harish Kumar D., Subhash K., S. Amuru, and K. Kuchi, ``Uplink Coverage Enhancements for Extremely Large Cell Sites". \[/Under review/\].
+ . *Pavan Reddy M.*, A. Kumar, and K. Kuchi,``Design and Performance Analysis of Joint Control and Shared Channel Scheduler for Downlink in 3GPP Narrowband-IoT", Ad Hoc Networks Journal. \[/Under review/\].
  . *Pavan Reddy M.*, Harish D., Saidhiraj Amuru, Kiran Kuchi, "[https://www.sciencedirect.com/science/article/abs/pii/S1570870520307034 Design and implementation of beamformed physical downlink control channel for 4G massive MIMO systems]",  Ad Hoc Networks Journal, 2020.
  . *Pavan Reddy M.*, Santosh G., Abhinav Kumar, Kiran Kuchi, "[https://ieeexplore.ieee.org/document/9204712/ Scheduling and Decoding of Downlink Control Channel of 3GPP Narrowband-IoT]",  IEEE Access Journal, 2020. 
 
@@ -15,7 +24,3 @@
 . *Pavan Reddy M.*, Santosh G., Abhinav Kumar, Kiran Kuchi, "[https://ieeexplore.ieee.org/document/8580749/ Downlink Control Channel Scheduling for  3GPP Narrowband-IoT]", IEEE PIMRC, 2018.\n
 . *Pavan Reddy M.*, Santosh G., Abhinav Kumar, Kiran Kuchi, "[https://ieeexplore.ieee.org/document/8328196 Novel Rate Matching Scheme for Downlink Control Channel in 3GPP Massive Machine Type Communications]",  COMSNETS, 2018.\n
 
-== Patents
-. Method for Wireless Communication Using Beamformed PDCCH.# \[PCT\/IN2020\/050404\].
-. Method and System for Scheduling a Pool of Resources to a Plurality of User Equipments.# \[PCT\/IN2019\/050585\].
-. Methods and Systems for Improving Coverage of a Cellular System.# \[Submitted\].
