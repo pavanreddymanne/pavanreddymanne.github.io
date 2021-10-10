@@ -5,9 +5,11 @@
 
 == Patents
 : {\[4\] ~~Methods and Systems for Improving Coverage of a Cellular System \[IN 202041034036\].}
-: {\[3\] ~~L2 Scheduler and a Method of Resource Allocation \[IN 202041005719\].}
-: {\[2\] ~~Method for Wireless Communication Using Beamformed PDCCH  \[IN 201941017958\].}
-: {\[1\] ~~Method and System for Scheduling a Pool of Resources to a Plurality of User Equipments   \[IN 201841029885\].}
+: {\[3\] ~~[https://patents.google.com/patent/WO2020031210A1/fr?inventor=Pavan+Kumar+Reddy+MANNE Method and system for scheduling a group of resources to a plurality of user equipments WO 2020031210A1]
+ \[WO 2020031210A1\].}
+: {\[2\] ~~[https://patents.google.com/patent/WO2020225825A1/en?inventor=Pavan+Kumar+Reddy+MANNE Method for wireless communication using beamformed physical downlink control channel (pdcch)]  \[WO 2020225825A1\].}
+: {\[1\] ~~[https://patents.google.com/patent/US20210266049A1/en?inventor=Pavan+Kumar+Reddy+MANNE  Method for allocating resources to a plurality of users by a base station]
+\[US 20210266049A1\].}
 
 [https://patents.google.com/?inventor=Pavan+Kumar+Reddy+MANNE Link for patents published in "Google-Patents"]
 == Journals 
@@ -20,7 +22,7 @@
 : {\[1\] ~~*Pavan Reddy M.*, Santosh G., Kumar A., Kuchi K. (2019), "[https://link.springer.com/chapter/10.1007/978-3-030-10659-1_1 Improved Physical Downlink Control Channel for 3GPP Massive Machine Type Communications]", In: Biswas S. et al. (eds) Communication Systems and Networks, COMSNETS 2018, Lecture Notes in Computer Science, vol 11227. Springer, Cham.}\n
 
 == Conferences
-: {\[5\] ~~*Pavan Reddy M.*, M. Reddy, Abhinav Kumar, Kiran Kuchi, "Downlink Resource Allocation for 5G-NR Massive MIMO Systems", accepted in NCC-2021.}
+: {\[5\] ~~*Pavan Reddy M.*, M. Reddy, Abhinav Kumar, Kiran Kuchi, "[https://ieeexplore.ieee.org/document/9530169/ Downlink Resource Allocation for 5G-NR Massive MIMO Systems]", NCC, 2021.}
 : {\[4\] ~~*Pavan Reddy M.*, Harish Kumar D., Saidhiraj Amuru, Kiran Kuchi, "[https://ieeexplore.ieee.org/document/9027449 Removing the PDCCH Bottleneck and Enhancing the Capacity of 4G Massive MIMO Systems]", COMSNETS, 2020. +\[Best Paper Award- Hon'ble Mention\].+}
 : {\[3\] ~~*Pavan Reddy M.*, Abhinav Kumar, Kiran Kuchi, "[https://ieeexplore.ieee.org/document/9027476 Joint Control and Shared Channel Scheduling for Downlink in 3GPP Narrowband-IoT]", COMSNETS, 2020.} 
 : {\[2\] ~~*Pavan Reddy M.*, Santosh G., Abhinav Kumar, Kiran Kuchi, "[https://ieeexplore.ieee.org/document/8580749/ Downlink Control Channel Scheduling for  3GPP Narrowband-IoT]", IEEE PIMRC, 2018.}
