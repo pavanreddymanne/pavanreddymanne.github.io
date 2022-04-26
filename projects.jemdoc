@@ -16,3 +16,13 @@
 == Link-Level Simulator
 Implemented physical downlink control channel for 4G-LTE, NB-IoT, LTE-M1, and 5G-NR technologies.\n
 - Validated the implementation against the 3rd party tools: Rhode & Schwarz,  Keysight System-Vue.
+
+== NOMA
+Designing novel power allocation and user-pairing algorithms for the non-orthogonal multiple access systems.
+- Evaluating the impact of the imperfections in successive interference cancellation at the receiver.
+
+== RIS
+Designing beamforming, user pairing, and power allocation for reconfigurable intelligent surfaces - assisted orthogonal and non-orthogonal multiple access systems.
+- Evaluating the impact of finite resolution beamforming and imperfections in phase compensation.
+
+
