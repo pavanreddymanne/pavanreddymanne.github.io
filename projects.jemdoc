@@ -5,13 +5,14 @@
 == 5G NR \[2022-present\]
 Algorithmic design and development of various L2 and L3 features in 5G-NR systems.
 
+== RIS \[2022-present\]
+Designing beamforming, user pairing, and power allocation for reconfigurable intelligent surfaces - assisted orthogonal and non-orthogonal multiple access systems.
+- Evaluating the impact of finite resolution beamforming and imperfections in phase compensation.
+
 == NOMA \[2022-present\]
 Designing novel power allocation and user-pairing algorithms for the non-orthogonal multiple access systems.
 - Evaluating the impact of the imperfections in successive interference cancellation at the receiver.
 
-== RIS \[2022-present\]
-Designing beamforming, user pairing, and power allocation for reconfigurable intelligent surfaces - assisted orthogonal and non-orthogonal multiple access systems.
-- Evaluating the impact of finite resolution beamforming and imperfections in phase compensation.
 
 == System-Level Simulator \[2019-2022\]
   *Simulator Development*
