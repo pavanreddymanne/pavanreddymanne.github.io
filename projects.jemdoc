@@ -2,7 +2,18 @@
 #= Projects Handled
 \n
 
-== System-Level Simulator
+== 5G NR \[2022-present\]
+Algorithmic design and development of various L2 and L3 features in 5G-NR systems.
+
+== NOMA \[2022-present\]
+Designing novel power allocation and user-pairing algorithms for the non-orthogonal multiple access systems.
+- Evaluating the impact of the imperfections in successive interference cancellation at the receiver.
+
+== RIS \[2022-present\]
+Designing beamforming, user pairing, and power allocation for reconfigurable intelligent surfaces - assisted orthogonal and non-orthogonal multiple access systems.
+- Evaluating the impact of finite resolution beamforming and imperfections in phase compensation.
+
+== System-Level Simulator \[2019-2022\]
   *Simulator Development*
  - Developed a 4G and 5G standard compliant system-level simulator for both uplink and downlink.
  -- Performed the calibration of system-level simulator with various 3GPP channel models.
@@ -13,16 +24,12 @@
  - Designed and evaluated the beamforming solutions to enhance the control channel capacity of existing 4G massive MIMO deployments.
  - Developed a joint control and shared channel scheduling algorithm for NB-IoT systems.
 
-== Link-Level Simulator
+== Link-Level Simulator \[2016-2019\]
 Implemented physical downlink control channel for 4G-LTE, NB-IoT, LTE-M1, and 5G-NR technologies.\n
 - Validated the implementation against the 3rd party tools: Rhode & Schwarz,  Keysight System-Vue.
 
-== NOMA
-Designing novel power allocation and user-pairing algorithms for the non-orthogonal multiple access systems.
-- Evaluating the impact of the imperfections in successive interference cancellation at the receiver.
 
-== RIS
-Designing beamforming, user pairing, and power allocation for reconfigurable intelligent surfaces - assisted orthogonal and non-orthogonal multiple access systems.
-- Evaluating the impact of finite resolution beamforming and imperfections in phase compensation.
+
+
 
 
