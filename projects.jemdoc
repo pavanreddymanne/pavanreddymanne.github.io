@@ -9,6 +9,7 @@ Algorithmic design and development of various L2 and L3 features in 5G-NR system
 Designing beamforming, user pairing, and power allocation for reconfigurable intelligent surfaces - assisted orthogonal and non-orthogonal multiple access systems.
 - Evaluating the impact of finite resolution beamforming and imperfections in phase compensation.
 
+
 == NOMA \[2022-present\]
 Designing novel power allocation and user-pairing algorithms for the non-orthogonal multiple access systems.
 - Evaluating the impact of the imperfections in successive interference cancellation at the receiver.
