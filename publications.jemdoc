@@ -3,6 +3,7 @@
 \n
 
 == Patents
+: {\[8\] ~~[https://patents.google.com/?inventor=Pavan+Kumar+Reddy+MANNE High Capacity 5G Wireless Backhaul.] }
 : {\[7\] ~~[https://patents.google.com/?inventor=Pavan+Kumar+Reddy+MANNE Full Coverage Massive MIMO and Methods Thereof.] }
 : {\[6\] ~~[https://patents.google.com/?inventor=Pavan+Kumar+Reddy+MANNE Extreme Massive MIMO Systems and Methods Thereof.] }
 : {\[5\] ~~[https://patents.google.com/?inventor=Pavan+Kumar+Reddy+MANNE A Method for Adaptive Multi-user Clustering in Non-orthogonal multiple access systems with Imperfect Successive Interference Cancellation].}
@@ -23,6 +24,9 @@
 == Book Chapters
 : {\[1\] ~~*Pavan Reddy M.*, Santosh G., Kumar A., Kuchi K. (2019), "[https://link.springer.com/chapter/10.1007/978-3-030-10659-1_1 Improved Physical Downlink Control Channel for 3GPP Massive Machine Type Communications]", In: Biswas S. et al. (eds) Communication Systems and Networks, COMSNETS 2018, Lecture Notes in Computer Science, vol 11227. Springer, Cham.}\n
 
+== ArXiv Versions
+: {~~ For latest unpublished article please [https://arxiv.org/search/eess?searchtype=author&query=M.%2C+P+R" click here]}
+
 == Conferences
 : {\[12\] ~~N. Mouni, *Pavan Reddy M.*, Abhinav Kumar, P. Upadhyay, "[ \alpha-Fairness based User Pairing for Downlink NOMA Systems with Imperfect SIC]", IEEE Globecomm 2022.}
 : {\[11\] ~~Priya K., *Pavan Reddy M.*, Abhinav Kumar, "[ Spectral and Energy Efficient User Pairing for RIS-assisted Uplink NOMA Systems with Imperfect Phase Compensation]", IEEE VTC Spring 2022.}
@@ -36,3 +40,4 @@
 : {\[3\] ~~*Pavan Reddy M.*, Abhinav Kumar, Kiran Kuchi, "[https://ieeexplore.ieee.org/document/9027476 Joint Control and Shared Channel Scheduling for Downlink in 3GPP Narrowband-IoT]", COMSNETS, 2020.} 
 : {\[2\] ~~*Pavan Reddy M.*, Santosh G., Abhinav Kumar, Kiran Kuchi, "[https://ieeexplore.ieee.org/document/8580749/ Downlink Control Channel Scheduling for  3GPP Narrowband-IoT]", IEEE PIMRC, 2018.}
 : {\[1\] ~~*Pavan Reddy M.*, Santosh G., Abhinav Kumar, Kiran Kuchi, "[https://ieeexplore.ieee.org/document/8328196 Novel Rate Matching Scheme for Downlink Control Channel in 3GPP Massive Machine Type Communications]",  COMSNETS, 2018.}
+
