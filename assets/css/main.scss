@@ -39,3 +39,22 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+h3 {
+  color: #005a9e;
+}
+
+h2 {
+  color: #005a9e;
+}
+
+h1 {
+  color: #005a9e;
+}
+
+.author__avatar img {
+  border-radius: 8px !important;   /* removes circle */
+  width: 150px;                  /* adjust size */
+  height: auto;                  /* keeps proportion */
+}
+
