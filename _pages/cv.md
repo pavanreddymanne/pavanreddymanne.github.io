@@ -6,4 +6,4 @@ author_profile: true
 
 
 
-Link for <a href="/files/cv.pdf" target="_blank">CV</a>.
+Link for <a href="{{ '/files/cv.pdf' | relative_url }}" target="_blank">CV</a>.

@@ -6,7 +6,7 @@ author_profile: true
 ## Structural MIMO for 6G
 
 <p style="text-align: center;">
-  <img src="/files/smimo.jpg" width="600" height="250" alt="Rank Hardware">
+  <img src="{{ '/files/smimo.jpg' | relative_url }}" width="600" height="250" alt="smimo">
 </p>
 
 Current 5G MU-MIMO deployments, typically use 64 antenna ports and the base station can serve up to 16 layers, in a paired MU-MIMO group. Although a theoretical 16-fold increase in network capacity can be expected compared to a single-antenna system, practical limitations such as limited antenna directivity per port, interference from other sectors, and power division among scheduled layers restrict the number of users that can be paired and the achievable network capacity. To overcome these limitations, we propose Structural MIMO (S-MIMO), which eliminates the constraints of conventional 5G MIMO systems by implementing the following methods:  
@@ -20,14 +20,14 @@ Current 5G MU-MIMO deployments, typically use 64 antenna ports and the base stat
 
 ## Enhanced Rank Adaptation for MIMO Systems
 <p style="text-align: center;">
-  <img src="/files/rank_hw.jpg" width="750" height="250" alt="Rank Hardware">
+  <img src="{{ '/files/rank_hw.jpg' | relative_url }}" width="750" height="250" alt="Rank Hardware">
 </p>
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
 
   <!-- Left: Image -->
   <div style="flex: 1; text-align: center;">
-    <img src="/files/rank.jpg" width="500" height="225" alt="Rank Simulation" style="border-radius: 8px;">
+    <img src="{{ '/files/rank.jpg' | relative_url }}" width="500" height="225" alt="Rank Simulation" style="border-radius: 8px;">
   </div>
 
   <!-- Right: Text -->
@@ -44,8 +44,8 @@ Current 5G MU-MIMO deployments, typically use 64 antenna ports and the base stat
 
 ## Graph Neural Networks-based User Pairing in Wireless Communication Systems
 <div style="text-align: center;">
-  <img src="/files/gnn2.jpg" width="350" height="250" alt="GNN Graph">
-  <img src="/files/gnn.jpg" width="350" height="250" alt="GNN Model">
+  <img src="{{ '/files/gnn2.jpg' | relative_url }}" width="350" height="250" alt="GNN Graph">
+  <img src="{{ '/files/gnn.jpg' | relative_url }}" width="350" height="250" alt="GNN Model">
 </div>
 
 Recently, deep neural networks have emerged as a solution to solve NP-hard wireless resource allocation problems in real-time. However, multi-layer perceptron (MLP) and convolutional neural network (CNN) structures, which are inherited from image processing tasks, are not optimized for wireless network problems. As network size increases, these methods get harder to train and generalize. User pairing is one such essential NP-hard optimization problem in wireless communication systems that entails selecting users to be scheduled together while minimizing interference and maximizing throughput. In this paper, we propose an unsupervised graph neural network (GNN) approach to efficiently solve the user pairing problem. Our proposed method utilizes the Erdos goes neural pipeline to significantly outperform other scheduling methods such as k-means and semi-orthogonal user scheduling (SUS). At 20 dB SNR, our proposed approach achieves a 49% better sum rate than k-means and a staggering 95% better sum rate than SUS while consuming minimal time and resources. The scalability of the proposed method is also explored as our model can handle dynamic changes in network size without experiencing a substantial decrease in performance. Moreover, our model can accomplish this without being explicitly trained for larger or smaller networks facilitating a dynamic functionality that cannot be achieved using CNNs or MLPs
@@ -53,7 +53,7 @@ Recently, deep neural networks have emerged as a solution to solve NP-hard wirel
 ## Building Bharat RAN 5G
 
 <p style="text-align: center;">
-  <img src="/files/bran.jpg" width="600" height="250" alt="Bharat RAN solution wisig">
+  <img src="{{ '/files/bran.jpg' | relative_url }}" width="600" height="250" alt="Bharat RAN solution wisig">
 </p>
 
   At WiSig Networks, we developed a trusted, secure, dis-aggregated and standard compliant 5G Bharat RAN solution for Indian market that inter-operates with 5G Core and third-party low-power and high-power radio units. This solution can be adapted for global markets including macro as well as private 5G deployments. Some of the key research and development activities of my team includes following: design, implementation, and on-field evaluation of scheduling algorithms, link and rank adaptation, power control, and multi-user MIMO.
@@ -65,7 +65,7 @@ Recently, deep neural networks have emerged as a solution to solve NP-hard wirel
 
   <!-- Left: Image -->
   <div style="flex: 1; text-align: center;">
-    <img src="/files/sls.jpg" width="500" height="225" alt="SLS" style="border-radius: 8px;">
+    <img src="{{ '/files/sls.jpg' | relative_url }}" width="500" height="225" alt="SLS" style="border-radius: 8px;">
   </div>                                                                                                                                                                                                                  <!-- Right: Text -->                                                                                        <div style="flex: 1; text-align: justify; font-size: 16px;"> 
 
 
@@ -103,7 +103,7 @@ This work was awarded with <i>Best Paper Honorable Mention</i> at COMSNETS 2020 
 
 <!-- Left: Image -->
   <div style="flex: 1; text-align: center;">
-    <img src="/files/bfpdcch.jpg" width="500" height="225" alt="Beamformed PDCCH" style="border-radius: 8px;">
+    <img src= "{{ '/files/bfpdcch.jpg' | relative_url }}" width="500" height="225" alt="Beamformed PDCCH" style="border-radius: 8px;">
   </div>              
 
                                                                                                                                                                                                     
@@ -115,7 +115,7 @@ This work was awarded with <i>Best Paper Honorable Mention</i> at COMSNETS 2020 
 
 ## Reconfigurable Intelligent Surfaces                                                                                                                                                                                        
 <p style="text-align: center;">
-  <img src="/files/ris.jpg" width="500" height="250" alt="RIS">                                                                                                                           </p> 
+  <img src="{{ '/files/ris.jpg' | relative_url }}" width="500" height="250" alt="RIS">                                                                                                                           </p> 
 
 Reconfigurable intelligent surface (RIS) is considered a promising technology for the next generation cellular communications to improve the achievable network capacity and cellular coverage. RIS consists of a large number of passive antenna elements (or meta-surfaces) which can reflect the incident ray toward the desired direction. By controlling the impedance of the meta-surfaces through a passive electronic circuit, an additional phase shift is introduced into the reflected signal, and thus, the signal is steered in the desired direction. This way, RIS helps in achieving improved signal reception for the users and also providing coverage to the users who are affected by the signal blockages. We have designed and patented various algorithms for RIS-assisted wireless systems that include selection of users for pairing, power control, optimizing the RIS location in cellular networks, etc.<br>
 <i>
@@ -125,7 +125,7 @@ Please refer to our key publications on RIS here: Optimizing the RIS location </
 
 ## Non-Orthogonal Multiple Access                                                                                                                                                                          
 <p style="text-align: center;">
-  <img src="/files/noma.jpg" width="400" height="250" alt="NOMA">                                                                                                                           </p>
+  <img src="{{ '/files/noma.jpg' | relative_url }}" width="400" height="250" alt="NOMA">                                                                                                                           </p>
 
 Non-orthogonal multiple access (NOMA) is considered as a key radio access technique for beyond 5G networks. In NOMA, the users are allocated the same time and frequency resources but are multiplexed across the power domain to achieve multi-fold improvement in the network capacity. At the receiver side of NOMA systems, the successive interference cancellation is employed to decode the transmitted data. However, there are various challenges like user pairing, power allocation, imperfections in SIC, etc. which limit the achievable gains in practice. To address these challenges, we have designed various algorithms such as hybrid NOMA-OMA pairing, joint power allocation and beamforming, etc.
 <br>

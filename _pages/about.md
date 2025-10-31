@@ -20,7 +20,7 @@ I am looking for highly motivated PhD, Masters, and B.Tech. students to work wit
 
 ## Recent News
 <ul>
-  <li><b>October 2025</b> – Our patent on user pairing in NOMA systems has been officially granted. <a href="/files/patent_noma.pdf" target="_blank">[Link]</a> </li>
+  <li><b>October 2025</b> – Our patent on user pairing in NOMA systems has been officially granted.<a href="{{ '/files/patent_noma.pdf' | relative_url }}" target="_blank">[Link]</a> </li>
   <li><b>August 2025</b> – Our paper on resource management for RIS-assisted NOMA systems has been published in <i> IEEE Communication Letters</i>. <a href="https://doi.org/10.1109/LCOMM.2025.3577767" target="_blank">[Link]</a></li>
   <li><b>August 2025</b> – Joined the <i>Indian Institute of Technology (IIT) Mandi</i> as an <i>Assistant Professor</i>.</li>
 </ul>
