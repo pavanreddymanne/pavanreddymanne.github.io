@@ -1,0 +1,43 @@
+# main links links  
+main:
+    
+  - title: "Details"
+    url: /details/
+
+
+  - title: "Research"
+    url: /research/
+
+
+  - title: "Publications"
+    url: /articles/
+
+
+  - title: "Academics"
+    url: /academics/
+
+
+  - title: "CV"
+    url: /cv/
+
+
+  - title: "Contact" 
+    url: /contact/
+
+
+
+
+  #   - title: "Portfolio"
+  #     url: /portfolio/
+
+  #   - title: "Blog Posts"
+  #     url: /year-archive/
+
+  #   - title: "CV"
+  #     url: /cv/
+
+  #   - title: "News"
+  #     url: /news/
+
+  #   [/ - title: "Guide" /]
+  #     [/ url: /markdown/> /]
