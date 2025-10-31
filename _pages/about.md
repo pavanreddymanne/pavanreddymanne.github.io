@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ## About me 
-I am an Assistant Professor in the [School of Computing and Electrical Engineering](https://scee.iitmandi.ac.in) at the [Indian Institute of Technology Mandi](https://www.iitmandi.ac.in). My research focuses on building and analyzing next-generation wireless systems through innovations in communication theory, signal processing, scheduler designs, massive MIMO and beamforming, reconfigurable intelligent surfaces, and machine learning driven network architectures. Check [Research](./research) and [Publications](./publications) pages for more details about my work.
+I am an Assistant Professor with the [School of Computing and Electrical Engineering](https://scee.iitmandi.ac.in) at [Indian Institute of Technology Mandi](https://www.iitmandi.ac.in). My research focuses on building and analyzing next-generation wireless systems through innovations in communication theory, signal processing, scheduler designs, massive MIMO and beamforming, reconfigurable intelligent surfaces, and machine learning driven network architectures. Check [Research](./research) and [Publications](./publications) pages for more details about my work.
 <!--I work in the areas of communications and signal processing, scheduler designs for cellular technologies, massive MIMO and beamforming, reconfigurable intelligent surfaces, and machine learning applications in wireless systems. 
 -->
 

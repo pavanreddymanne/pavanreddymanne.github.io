@@ -1,5 +1,5 @@
 ---
-title: "Publications"
+title: " "
 permalink: /articles/
 author_profile: true
 ---
@@ -7,14 +7,14 @@ author_profile: true
 ## Patents
 
 
-## Granted Patents
+### Granted Patents
 
 [4.] [Method and System for Identifying Non-orthogonal Multiple Access (NOMA) User Devices.](/files/patent_noma.pdf)    
 [3.] [Method for allocating resources to a plurality of users by a base station.](https://patentscope.wipo.int/search/en/detail.jsf?docId=IN435570265)  
 [2.] [Method for wireless communication using beamformed physical downlink control channel (pdcch).](https://patentscope.wipo.int/search/en/detail.jsf?docId=US344958492)  
 [1.] [Method and system for scheduling a group of resources to a plurality of user equipment.](https://patentscope.wipo.int/search/en/detail.jsf?docId=IN283945091)  
 
-## Provisional Filed, Under Examination
+### Provisional Filed, Under Examination
 
 [8.] A Single Radio Unit, A Single Baseband and Stack to Serve Multiple Sectors.  
 [7.] A Method to Transmit One or More Waveforms to One or More Users.  
