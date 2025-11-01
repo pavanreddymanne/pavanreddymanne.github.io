@@ -23,24 +23,17 @@ Current 5G MU-MIMO deployments, typically use 64 antenna ports and the base stat
   <img src="{{ '/files/rank_hw.jpg' | relative_url }}" width="750" height="250" alt="Rank Hardware">
 </p>
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-
-  <!-- Left: Image -->
-  <div style="flex: 1; text-align: center;">
-    <img src="{{ '/files/rank.jpg' | relative_url }}" width="500" height="225" alt="Rank Simulation" style="border-radius: 8px;">
-  </div>
-
-  <!-- Right: Text -->
-  <div style="flex: 1; text-align: justify; font-size: 16px;">
-    Multiple-input-multiple-output systems enhance the available degrees of freedom, enable spatial multiplexing, and improve network capacity. 
+  <p style="text-align: center;">
+    <img src="{{ '/files/rank.jpg' | relative_url }}" width="500" height="250" alt="Rank Simulation">
+  </p>
+   
+ Multiple-input-multiple-output systems enhance the available degrees of freedom, enable spatial multiplexing, and improve network capacity. 
     However, higher-rank transmission becomes advantageous only if it compensates for inter-layer interference, necessitating rank adaptation. 
     Typically, rank adaptation relies on full or partial channel state information or outer loop rank adaptation (OLRA), with the former incurring 
     additional resource overhead, while the existing works on latter often yield sub-optimal performance. Addressing this issue, we have designed 
     an enhanced OLRA (eOLRA) that achieves optimal performance. We have performed extensive system-level simulations and experimental evaluations 
     on a real-time 5G base station to quantify the achievable gains. We demonstrate significant gains in cell-edge throughput and link stability. <i>More details on this work are available at this link:</i> <a href="/files/olra.pdf" target="_blank">OLRA</a>
-  </div>
 
-</div>
 
 ## Graph Neural Networks-based User Pairing in Wireless Communication Systems
 <div style="text-align: center;">
@@ -60,32 +53,21 @@ Recently, deep neural networks have emerged as a solution to solve NP-hard wirel
 
 
 ## System-Level Simulator
-
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-
-  <!-- Left: Image -->
-  <div style="flex: 1; text-align: center;">
-    <img src="{{ '/files/sls.jpg' | relative_url }}" width="500" height="225" alt="SLS" style="border-radius: 8px;">
-  </div>                                                                                                                                                                                                                  <!-- Right: Text -->                                                                                        <div style="flex: 1; text-align: justify; font-size: 16px;"> 
+<p style="text-align: center;">
+  <img src="{{ '/files/sls.jpg' | relative_url }}" width="300" height="250" alt="SLS">                                                                                                                           </p>
 
 
 In wireless systems, any new algorithmic enhancements and design proposals have to be evaluated exhaustively before a real-life deployment. This evaluation requires analyzing multiple communication links between a mobile station and devices for varying propagation scenarios. The computational complexity of an individual communication link itself is significantly high. Hence, a comprehensive evaluation at a system-level will have a significant increase in the complexity with an increase in the number of mobile stations and devices. Typically, to address this issue, system-level simulators are used where all the link-features are abstracted. These system-level simulator tools are vital in evaluating network performance and are expected to persist as essential tools with the next-generation cellular systems. <b>Motivated by this and the significant impact of the simulation tools in the standardization process and developing new technologies, we have developed standard-compliant uplink and downlink system-level simulators.</b>  
-  
 <br>
-
 <u>Key Features</u>: 3-D channel modelling (UMa/UMi/RMa), 3GPP Phase-I and Phase-II calibration, massive MIMO: antenna modelling and scheduler designs, traffic modelling, link & rank adaptation, power control, and all 3GPP mandate features for evaluation, support for reconfigurable intelligent surfaces and non-orthogonal multiple access.  
  <br> 
 <u>Acknowledgements</u>: <i>This work includes signficant contributions from Prof. Kiran Kuchi, Dr. SaiDhiraj Amuru, and Harish Kumar D. For more details on our work, please refer to this latest publication </i> <a href="https://ieeexplore.ieee.org/document/10303281" target="_blank">(Link)</a> <i>and my Ph.D. thesis </i> <a href="/files/thesis.pdf" target="_blank">(Link)</a>.
 
-</div>
-</div>
 
 ## 5G feature using 4G
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-
-<div style="flex: 1; text-align: justify; font-size: 16px;">
-  
+<p style="text-align: center;">
+  <img src="{{ '/files/bfpdcch.jpg' | relative_url }}" width="300" height="250" alt="Beamformed PDCCH">                                                                                                                           </p>  
 Beamforming of physical downlink control channel (PDCCH) is introduced in 4G LTE-Advanced and 5G-NR specifications. However, the legacy 4G LTE systems (typically Release-8 systems) which account for most of the existing 4G deployments still cannot perform beamforming on PDCCH. Note that the capacity of the control channel in downlink dictates the number of users that can be scheduled at any time instant, and thus it limits the cell-capacity.  With minimal software changes to the scheduling algorithm,  we have designed a beamforming algorithm that significantly enhances the network capacity. In the proposed design, we use sounding reference signals received in uplink to determine the best beam for a user, and then ingeniously beamform the PDCCH in downlink. Numerical evaluations show that our proposed design significantly outperforms the state-of-the-art algorithms.
 
 <br>
@@ -98,16 +80,6 @@ This work was awarded with <i>Best Paper Honorable Mention</i> at COMSNETS 2020 
 </span>
 
 
-
-</div>
-
-<!-- Left: Image -->
-  <div style="flex: 1; text-align: center;">
-    <img src= "{{ '/files/bfpdcch.jpg' | relative_url }}" width="500" height="225" alt="Beamformed PDCCH" style="border-radius: 8px;">
-  </div>              
-
-                                                                                                                                                                                                    
-</div>
 
 
 
