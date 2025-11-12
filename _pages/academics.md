@@ -21,5 +21,6 @@ Thesis co-supervisor for M.Tech students at IIT Hyderabad.
 * DP503P: Electrical Workshop, IIT Mandi, Aug. 2025 
 
 ## Other Services
+  * TPC Member, NCC, 2026.
   * TPC Member, COMSNETS, 2026.
   * Active reviewer for articles from: IEEE TVT, IEEE WCL, IEEE COMMLETT, IEEE IoT-Journal, IEEE Globecomm, IEEE WCNC, IEEE ICC.
