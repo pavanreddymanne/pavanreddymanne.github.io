@@ -9,21 +9,21 @@ author_profile: true
 
 ### Granted Patents
 
-[4.] [Method and System for Identifying Non-orthogonal Multiple Access (NOMA) User Devices.]({{ '/files/patent_noma.pdf' | relative_url }})    
-[3.] [Method for allocating resources to a plurality of users by a base station.](https://patentscope.wipo.int/search/en/detail.jsf?docId=IN435570265)  
-[2.] [Method for wireless communication using beamformed physical downlink control channel (pdcch).](https://patentscope.wipo.int/search/en/detail.jsf?docId=US344958492)  
-[1.] [Method and system for scheduling a group of resources to a plurality of user equipment.](https://patentscope.wipo.int/search/en/detail.jsf?docId=IN283945091)  
+
+[4.] Method and System for Identifying Non-orthogonal Multiple Access (NOMA) User Devices [[IN]]({{ '/files/patent_noma.pdf' | relative_url }})    
+[3.] A Method for Allocating Resources to a Plurality of Users By a Base Station [[US]](https://patentscope.wipo.int/search/en/detail.jsf?docId=US334734266), [[IN]](https://patentscope.wipo.int/search/en/detail.jsf?docId=IN435570265)    
+[2.] Beamformed Physical Downlink Control Channel for LTE with Full Dimension Multi Input Multi Output [[US]](https://patentimages.storage.googleapis.com/2a/17/36/25fb36a354264e/US11902969.pdf), [[IN]]({{ '/files/patent_bfpdcch.pdf' | relative_url }})  
+[1.] Method and System for Scheduling a Pool of Resources to a Plurality of User Equipment’s [[US]](https://patentscope.wipo.int/search/en/detail.jsf?docId=US339100257), [[IN]](https://patentscope.wipo.int/search/en/detail.jsf?docId=IN283945091)
+	 
 
 ### Provisional Filed, Under Examination
 
-[8.] A Single Radio Unit, A Single Baseband and Stack to Serve Multiple Sectors.  
-[7.] A Method to Transmit One or More Waveforms to One or More Users.  
-[6.] High Capacity Wireless Backhaul and Methods Thereof.  
-[5.] Enhanced Rank Adaptation Methodology for Multiple-Input-Multiple-Output (MIMO) Systems.  
-[4.] Graph Neural Networks for User-Pairing in Wireless Communication Systems.  
-[3.] [Method of communication with relay nodes and/or user equipment's and communication systems thereof.](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2024079751)  
-[2.] [Structural Massive MIMO and Methods Thereof.](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2024224420)  
-[1.] [Methods for Improving Coverage of a Cellular Network and thereof.](https://patentscope.wipo.int/search/en/detail.jsf?docId=IN351883114)  
+[6.] A Single Radio Unit, A Single Baseband and Stack to Serve Multiple Sectors  
+[5.] Hybrid massive MIMO systems and methods thereof  
+[4.] Graph Neural Networks for User-Pairing in Wireless Communication Systems  
+[3.] Method Of Communication With Relay Nodes and/or User Equipment’s And Communication Systems Thereof [[PCT]](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2024079751)  
+[2.] Methods for Improving Coverage of a Cellular Network and Systems Thereof [[US]](https://patentscope.wipo.int/search/en/detail.jsf?docId=US407345342), [[IN]](https://patentscope.wipo.int/search/en/detail.jsf?docId=IN351883114)  
+[1.] Structural Massive Multiple Input Multiple Output (Sm-Mimo) Communication System [[PCT]](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2024224420)  
 
 Link for patents published in “[Google-Patents](https://patents.google.com/?inventor=Pavan+Kumar+Reddy+MANNE)”   
 

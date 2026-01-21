@@ -5,6 +5,15 @@ author_profile: true
 ---
 
 
+## Current Students
+### Ph.D.
+ * Abhay Upadhyay
+ * Saket Thakur (*co-advised by Dr. Adarsh Patel)
+
+### M.Tech. (R)
+ * Shivam Rajput (*co-advised by Dr. Adarsh Patel)
+
+
 
 ## Past Students
 Thesis co-supervisor for M.Tech students at IIT Hyderabad.
@@ -15,10 +24,11 @@ Thesis co-supervisor for M.Tech students at IIT Hyderabad.
   * Kusuma Priya Pulvarthy, M.Tech., Dept. of EE, IIT Hyderabad, 2022  
      *Current Location: BEL, Banglore*
 
-
 ## Courses Taught
-* SC600: Research Methodology, SCEE, IIT Mandi, Aug. 2025.  
-* DP503P: Electrical Workshop, IIT Mandi, Aug. 2025 
+  * EE581: Foundations of Intelligent Communication System (FOCOS)-II, Spring 2026. 
+        (*co-taught with Dr. Sourav Dutta*)
+  * EE316: Communication Systems, Spring 2026. 
+        (*co-taught with Dr. Adarsh Patel*)
 
 ## Other Services
   * TPC Member, NCC, 2026.
