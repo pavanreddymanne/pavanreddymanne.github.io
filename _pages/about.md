@@ -19,6 +19,9 @@ I am looking for highly motivated PhD, Masters, and B.Tech. students to work wit
 
 ## Recent News
 <ul>
+
+  <li>January 2026 – Our experimental work on distributed MIMO testbed got accepted for publication in <i> IEEE OJCOMS journal</i>. <a href="https://doi.org/10.1109/OJCOMS.2026.3658161"  target="_blank">[Link]</a> </li>
+  <li>January 2026 – Our work on rank adaptation for MIMO systems got accepted for publication in <i> NCC 2026</i> conference.</li>
   <li>October 2025 – Our patent on user pairing in NOMA systems has been officially granted.<a href="{{ '/files/patent_noma.pdf' | relative_url }}" target="_blank">[Link]</a> </li>
   <li>August 2025 – Our paper on resource management for RIS-assisted NOMA systems has been published in <i> IEEE Communication Letters</i>. <a href="https://doi.org/10.1109/LCOMM.2025.3577767" target="_blank">[Link]</a></li>
   <li>August 2025 – Joined the <i>Indian Institute of Technology (IIT) Mandi</i> as an <i>Assistant Professor</i>.</li>
