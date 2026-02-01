@@ -29,7 +29,7 @@ Link for patents published in “[Google-Patents](https://patents.google.com/?in
 
 ## Journals
 
-
+[11] Muralimohan, Spandan, Pavan Reddy M., Harish Kumar,  K. Kuchi, “[Experimental Validation of Large-Scale Distributed MIMO With Real-Time Adaptive Modulation](https://ieeexplore.ieee.org/document/11364119)”, IEEE OJCOMS, 2026.  
 [10] Pavan Reddy M., “[Enhanced Resource Management for RIS-assisted NOMA Networks: A Fractional Programming Framework](http://doi.org/10.1109/LCOMM.2025.3577767)”, IEEE Communication Letters, 2025.  
 [9] S Mourya, Pavan Reddy M., SD Amuru, KK Kuchi, "[Spectral Temporal Graph Neural Network for massive MIMO CSI Prediction](http://doi.org/10.1109/LWC.2024.3372148)", IEEE Wireless Communication Letters, 2024.  
 [8] Pavan Reddy M., SaiDhiraj, and Kiran Kuchi, ‘‘[Optimizing the Placement and Beamforming of RIS in Cellular Networks: A System-Level Modeling Perspective](https://doi.org/10.1109/LCOMM.2023.3329135)" , IEEE Communication Letters, 2023.  
@@ -50,18 +50,18 @@ Link for patents published in “[Google-Patents](https://patents.google.com/?in
 For latest unpublished articles please [click here](https://arxiv.org/search/eess?searchtype=author&query=M.%2C+P+R) 
 
 ## Conferences
-[17] Swaraj S., Ritesh K., Pavan Reddy M., and Abhinav Kumar, “[RIS-Assisted Hybrid NOMA-OMA System with Imperfections in SIC and Phase Compensation](https://ieeexplore.ieee.org/document/11174557)”, IEEE VTC spring, 2025.  
-[16] S Mourya, Pavan Reddy M., SD Amuru, KK Kuchi, "[Dbscan Clustering for User Pairing in Wireless Networks](https://doi.org/10.1109/COMSNETS63942.2025.10885692)", COMSNETS 2025.  
-[15] Spandan Bisoyi, et. al., ["Meeting IMT-2030 performance targets: The potential of OTFDM Waveform and structural MIMO Technologies"](https://www.itu.int/en/ITU-T/academia/kaleidoscope/2024/PublishingImages/Pages/default/KALEIDOSCOPE%202024%20CONFERENCE%20PROCEEDINGS.pdf), ITU Kaleidoscope 2024.  
-[14] N. Mouni, Pavan Reddy M., Abhinav Kumar, P. Upadhyay, Maurizio M., "[Adaptive Multi-User Clustering and Power Allocation for Hybrid OMA-NOMA System with Imperfect SIC](https://ieeexplore.ieee.org/document/10426961/)", COMSNETS 2024.  
-[13] N. Mouni, Pavan Reddy M., Abhinav Kumar, P. Upadhyay, “[Enhanced User Pairing and Power Allocation Strategies for Downlink NOMA Systems with Imperfections in SIC](https://ieeexplore.ieee.org/document/10041284/)”, COMSNETS 2023. <span style="background-color:#f6ede4; color:red; padding:3px 6px; border-radius:6px;">
+
+[16] Muralimohan, Pavan Reddy M., Sibgath Ali Khan, Kiran Kuchi, "[Enhanced Rank Adaptation for MIMO Systems: Design and Experimental Validation](https://ieeexplore.ieee.org/document/early-access)", NCC 2026.  
+[15] Swaraj S., Ritesh K., Pavan Reddy M., and Abhinav Kumar, “[RIS-Assisted Hybrid NOMA-OMA System with Imperfections in SIC and Phase Compensation](https://ieeexplore.ieee.org/document/11174557)”, IEEE VTC spring, 2025.  
+[14] S Mourya, Pavan Reddy M., SD Amuru, KK Kuchi, "[Dbscan Clustering for User Pairing in Wireless Networks](https://doi.org/10.1109/COMSNETS63942.2025.10885692)", COMSNETS 2025.  
+[13] Spandan Bisoyi, et. al., ["Meeting IMT-2030 performance targets: The potential of OTFDM Waveform and structural MIMO Technologies"](https://www.itu.int/en/ITU-T/academia/kaleidoscope/2024/PublishingImages/Pages/default/KALEIDOSCOPE%202024%20CONFERENCE%20PROCEEDINGS.pdf), ITU Kaleidoscope 2024.  
+[12] N. Mouni, Pavan Reddy M., Abhinav Kumar, P. Upadhyay, Maurizio M., "[Adaptive Multi-User Clustering and Power Allocation for Hybrid OMA-NOMA System with Imperfect SIC](https://ieeexplore.ieee.org/document/10426961/)", COMSNETS 2024.  
+[11] N. Mouni, Pavan Reddy M., Abhinav Kumar, P. Upadhyay, “[Enhanced User Pairing and Power Allocation Strategies for Downlink NOMA Systems with Imperfections in SIC](https://ieeexplore.ieee.org/document/10041284/)”, COMSNETS 2023. <span style="background-color:#f6ede4; color:red; padding:3px 6px; border-radius:6px;">
 Best Poster Award
 </span>  
-[12] N. Mouni, Pavan Reddy M., Abhinav Kumar, P. Upadhyay, “[alpha-Fairness based User Pairing for Downlink NOMA Systems with Imperfect SIC](https://ieeexplore.ieee.org/document/10001663#:~:text=We%20consider%20a%202%2Duser,Fairness%20among%20the%20paired%20users.)”, IEEE Globecomm 2022.  
-[11] Priya K., Pavan Reddy M., Abhinav Kumar, “[Spectral and Energy Efficient User Pairing for RIS-assisted Uplink NOMA Systems with Imperfect Phase Compensation](https://ieeexplore.ieee.org/document/9861026/)”, IEEE VTC Spring 2022.  
-[10] N. Mouni, Pavan Reddy M., Abhinav Kumar, P. Upadhyay, “[DNN based Adaptive User Pairing and Power Allocation to achieve 𝛼-Fairness in NOMA Systems with Imperfections in SIC](https://dl.acm.org/doi/abs/10.1145/3564121.3565042)”, ACM AI-ML Systems 2022.  
-[9] N. Mouni, Pavan Reddy M., Abhinav Kumar, P. Upadhyay, “[Adaptive Multi-User Clustering and Power Allocation for NOMA Systems with Imperfect SIC](https://pavanreddymanne.github.io/publications.html)”, Sigcomm N2W ’22 Posters.  
-[8] Priya K., Pavan Reddy M., Abhinav Kumar, “[Spectral and Energy Efficient User Pairing for RIS-assisted Uplink NOMA Systems with Imperfect Phase Compensation](https://pavanreddymanne.github.io/publications.html)”, Sigcomm N2W ’22 Posters.  
+[10] N. Mouni, Pavan Reddy M., Abhinav Kumar, P. Upadhyay, “[alpha-Fairness based User Pairing for Downlink NOMA Systems with Imperfect SIC](https://ieeexplore.ieee.org/document/10001663#:~:text=We%20consider%20a%202%2Duser,Fairness%20among%20the%20paired%20users.)”, IEEE Globecomm 2022.  
+[9] Priya K., Pavan Reddy M., Abhinav Kumar, “[Spectral and Energy Efficient User Pairing for RIS-assisted Uplink NOMA Systems with Imperfect Phase Compensation](https://ieeexplore.ieee.org/document/9861026/)”, IEEE VTC Spring 2022.  
+[8] N. Mouni, Pavan Reddy M., Abhinav Kumar, P. Upadhyay, “[DNN based Adaptive User Pairing and Power Allocation to achieve 𝛼-Fairness in NOMA Systems with Imperfections in SIC](https://dl.acm.org/doi/abs/10.1145/3564121.3565042)”, ACM AI-ML Systems 2022.  
 [7] Prashanth L., Pavan Reddy M., Saidhiraj, Kiran Kuchi, “[Energy and Delay Efficient Intelligent Release Assistant Indication Scheme for NB-IoT](https://ieeexplore.ieee.org/document/9668381)”, COMSNETS 2022.  
 [6] Pavan Reddy M., Abhinav Kumar, Kiran Kuchi, “[Joint Link Adaptation and Resource Allocation for Uplink in 3GPP Machine-Type Communications](https://ieeexplore.ieee.org/document/9668335)”, COMSNETS 2022.  
 [5] Pavan Reddy M., M. Reddy, Abhinav Kumar, Kiran Kuchi, “[Downlink Resource Allocation for 5G-NR Massive MIMO Systems](https://ieeexplore.ieee.org/document/9530169/)”, NCC, 2021.  
