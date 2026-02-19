@@ -21,6 +21,7 @@ author_profile: true
     <a href="https://www.iith.ac.in" target="_blank">Indian Institute of Technology Hyderabad</a>, [Dual Degree], Aug. 2014- Apr. 2021.
 
 ## Recognitions/Awards
+  * IEEE Senior Member, 2026.
   * IEEE GraTE 7 Best Ph.D. Thesis Award 2022.
   * Best Paper Award [Honorable Mention], COMSNETS, 2020.
   * Best Poster Award, COMSNETS, 2023.
