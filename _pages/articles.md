@@ -29,6 +29,7 @@ Link for patents published in “[Google-Patents](https://patents.google.com/?in
 
 ## Journals
 
+[12] S Mourya, Pavan Reddy M., SD Amuru, KK Kuchi, "[Erdos goes Neural Pipeline-Based User Pairing in Wireless Communication Networks](http://doi.org/10.1109/LWC.2026.3669184)", IEEE Wireless Communication Letters, 2026.  
 [11] Muralimohan, Spandan, Pavan Reddy M., Harish Kumar,  K. Kuchi, “[Experimental Validation of Large-Scale Distributed MIMO With Real-Time Adaptive Modulation](https://ieeexplore.ieee.org/document/11364119)”, IEEE OJCOMS, 2026.  
 [10] Pavan Reddy M., “[Enhanced Resource Management for RIS-assisted NOMA Networks: A Fractional Programming Framework](http://doi.org/10.1109/LCOMM.2025.3577767)”, IEEE Communication Letters, 2025.  
 [9] S Mourya, Pavan Reddy M., SD Amuru, KK Kuchi, "[Spectral Temporal Graph Neural Network for massive MIMO CSI Prediction](http://doi.org/10.1109/LWC.2024.3372148)", IEEE Wireless Communication Letters, 2024.  

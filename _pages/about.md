@@ -19,6 +19,7 @@ I am looking for highly motivated PhD, Masters, and B.Tech. students to work wit
 
 ## Recent News
 <ul>
+  <li>March 2026 – Our paper on GNN based user pairing has been accepted for publication in <i> IEEE Wireless Communications Letters</i>. <a href="https://doi.org/10.1109/LWC.2026.3669184" target="_blank">[Link]</a></li>
   <li>February 2026 – Elevated to IEEE Senior Member.<a href="{{ '/files/senior_ieee.pdf' | relative_url }}" target="_blank">[Link]</a> </li> 
   <li>January 2026 – Our experimental work on distributed MIMO testbed got accepted for publication in <i> IEEE OJCOMS journal</i>. <a href="https://doi.org/10.1109/OJCOMS.2026.3658161"  target="_blank">[Link]</a> </li>
   <li>January 2026 – Our work on rank adaptation for MIMO systems got accepted for publication in <i> NCC 2026</i> conference.</li>
